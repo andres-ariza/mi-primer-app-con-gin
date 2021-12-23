@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "codigo": "asd",
+    "moneda": "peso",
+    "monto": 50000,
+    "emisor": "Pepa",
+    "receptor": "Andresito",
+    "fechaTransaccion": "holis"
+}
